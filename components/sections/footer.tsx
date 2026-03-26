@@ -5,7 +5,7 @@ import { Heart } from 'lucide-react';
 
 export default function Footer() {
   const handleWhatsApp = () => {
-    window.open('https://wa.me/685668269882', '_blank');
+    window.open('https://wa.me/+6285668269882', '_blank');
   };
 
   return (
@@ -51,7 +51,7 @@ export default function Footer() {
               </li>
               <li>
                 <p className="font-semibold">⏰ Jam Kerja</p>
-                <p className="text-xs">Senin-Jumat: 07:00-14:00</p>
+                <p className="text-xs">Senin-Sabtu: 07:00-14:00</p>
               </li>
             </ul>
           </div>
@@ -78,7 +78,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           {/* Copyright */}
           <div className="text-sm text-primary-foreground/80 text-center md:text-left">
-            <p>© 2024 SD NEGERI 050577. Hak Cipta Dilindungi.</p>
+            <p>© 2026 SD NEGERI 050577. Hak Cipta Dilindungi.</p>
           </div>
 
           {/* Made with Love */}
