@@ -21,7 +21,7 @@ export default function Location() {
           {/* Map Section */}
           <Card className="overflow-hidden bg-card border-0 shadow-lg h-96">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3284.5651347625607!2d99.5!3d2.5!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d54d3f3f3f3f3%3A0x0!2sSD%20Negeri%20050577!5e0!3m2!1sid!2sid!4v1234567890"
+              src="https://maps.app.goo.gl/7xHdeFxgkBPWnPsj7?g_st=ac"
               width="100%"
               height="100%"
               style={{ border: 0 }}
@@ -56,8 +56,8 @@ export default function Location() {
             <div className="grid grid-cols-2 gap-4">
               <Card className="p-4 bg-gradient-to-br from-primary/10 to-primary/5 border-primary/20">
                 <p className="text-xs text-muted-foreground mb-1">Jam Operasional</p>
-                <p className="font-semibold text-primary">Senin - Jumat</p>
-                <p className="text-sm text-muted-foreground">07:00 - 14:00 WIB</p>
+                <p className="font-semibold text-primary">Senin - Sabtu</p>
+                <p className="text-sm text-muted-foreground">07:00 - 13:00 WIB</p>
               </Card>
 
               <Card className="p-4 bg-gradient-to-br from-accent/10 to-accent/5 border-accent/20">
