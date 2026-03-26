@@ -12,7 +12,7 @@ export default function Gallery() {
       id: 1,
       category: 'Kegiatan Belajar',
       title: 'Pembelajaran Interaktif',
-      image: '/images/classroom.jpg',
+      image: '/images/kelas.jpg',
     },
     {
       id: 2,
@@ -23,26 +23,26 @@ export default function Gallery() {
     {
       id: 3,
       category: 'Aktivitas Guru',
-      title: 'Rapat Guru',
-      image: '/images/teachers.jpg',
+      title: 'Foto Guru',
+      image: '/images/guru.jpg',
     },
     {
       id: 4,
       category: 'Lingkungan Sekolah',
       title: 'Taman Sekolah',
-      image: '/images/classroom.jpg',
+      image: '/images/lingkungan.jpg',
     },
     {
       id: 5,
       category: 'Kegiatan Belajar',
       title: 'Praktik IPA',
-      image: '/images/ceremony.jpg',
+      image: '/images/belajar.jpg',
     },
     {
       id: 6,
       category: 'Olahraga',
       title: 'Turnamen Olahraga',
-      image: '/images/teachers.jpg',
+      image: '/images/penjas.jpg',
     },
   ];
 
