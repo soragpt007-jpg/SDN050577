@@ -5,7 +5,7 @@ import { Phone, LogIn } from 'lucide-react';
 
 export default function Hero() {
   const handleWhatsApp = () => {
-    window.open('https://wa.me/685668269882', '_blank');
+    window.open('https://wa.me/+625668269882', '_blank');
   };
 
   return (
