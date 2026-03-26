@@ -45,15 +45,6 @@ export default function Footer() {
                 <p className="font-semibold">📍 Alamat</p>
                 <p className="text-xs">JLN. P. KEMERDEKAAN<br />Binjai, Langkat</p>
                 <div>
-                  <h2>Lokasi Sekolah</h2>
-                  <iframe
-                    src="maps.app.goo.gl/7xHdeFxgkBPWnPsj7?g_st=ac"
-                    width="100%"
-                    height="350"
-                    style="border:0"
-                    loading="lazy">
-                </div>
-    
               </li>
               <li>
                 <p className="font-semibold">📞 Telepon</p>
