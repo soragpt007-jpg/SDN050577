@@ -54,6 +54,13 @@ export default function Footer() {
                     loading="lazy">
                   </iframe>
                 </div>
+                <a
+                  href="https://maps.google.com" 
+                  target="_blank"
+                  className="text-green-600 underline"
+                  > 
+                  Lihat Lokasi di Google Maps
+                </a>https://maps.app.goo.gl/7xHdeFxgkBPWnPsj7?g_st=ac
               </li>
               <li>
                 <p className="font-semibold">📞 Telepon</p>
