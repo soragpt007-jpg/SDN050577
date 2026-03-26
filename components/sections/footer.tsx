@@ -50,9 +50,8 @@ export default function Footer() {
                     src="maps.app.goo.gl/7xHdeFxgkBPWnPsj7?g_st=ac"
                     width="100%"
                     height="350"
-                    style="{{border:0}}"
+                    style="border:0"
                     loading="lazy">
-                  </iframe>
                 </div>
     
               </li>
