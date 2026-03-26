@@ -119,7 +119,7 @@ export default function Contact() {
                 </li>
                 <li className="flex justify-between">
                   <span>Pulang Sekolah</span>
-                  <span className="font-semibold text-card-foreground">14:00</span>
+                  <span className="font-semibold text-card-foreground">13:00</span>
                 </li>
               </ul>
             </Card>
