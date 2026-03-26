@@ -6,7 +6,7 @@ import { Phone, MapPin, Clock, MessageCircle } from 'lucide-react';
 
 export default function Contact() {
   const handleWhatsApp = () => {
-    window.open('https://wa.me/685668269882?text=Halo%20SD%20Negeri%20050577%2C%20saya%20ingin%20mengetahui%20informasi%20lebih%20lanjut', '_blank');
+    window.open('https://wa.me/+6285668269882?text=Halo%20SD%20Negeri%20050577%2C%20saya%20ingin%20mengetahui%20informasi%20lebih%20lanjut', '_blank');
   };
 
   const contactInfo = [
@@ -107,7 +107,7 @@ export default function Contact() {
           <h3 className="text-xl font-bold text-primary mb-6 text-center">Jam Layanan Kami</h3>
           <div className="grid md:grid-cols-2 gap-6">
             <Card className="p-6 bg-card border-0 shadow-lg">
-              <h4 className="font-bold text-primary mb-4">Hari Kerja (Senin - Jumat)</h4>
+              <h4 className="font-bold text-primary mb-4">Hari Kerja (Senin - Sabtu)</h4>
               <ul className="space-y-3 text-muted-foreground">
                 <li className="flex justify-between">
                   <span>Masuk Sekolah</span>
@@ -127,7 +127,7 @@ export default function Contact() {
             <Card className="p-6 bg-card border-0 shadow-lg">
               <h4 className="font-bold text-primary mb-4">Libur</h4>
               <ul className="space-y-2 text-muted-foreground text-sm">
-                <li>✓ Sabtu dan Minggu</li>
+                <li>✓ Minggu</li>
                 <li>✓ Hari Libur Nasional</li>
                 <li>✓ Libur Sekolah (sesuai kalender pendidikan)</li>
                 <li>✓ Hubungi kami untuk jadwal libur lengkap</li>
