@@ -5,7 +5,7 @@ import { Heart } from 'lucide-react';
 
 export default function Footer() {
   const handleWhatsApp = () => {
-    window.open('https://wa.me/+6285668269882', '_blank');
+    window.open('https://wa.me/085668269882', '_blank');
   };
 
   return (
