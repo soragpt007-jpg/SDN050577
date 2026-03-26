@@ -25,8 +25,8 @@ export default function Contact() {
     {
       icon: Clock,
       title: 'Jam Operasional',
-      info: 'Senin - Jumat',
-      subInfo: '07:00 - 14:00 WIB',
+      info: 'Senin - Sabtu',
+      subInfo: '07:00 - 13:00 WIB',
     },
     {
       icon: MessageCircle,
